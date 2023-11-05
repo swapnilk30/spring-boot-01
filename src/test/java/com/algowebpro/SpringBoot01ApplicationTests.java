@@ -1,4 +1,4 @@
-package com.algowebpro.springboot01;
+package com.algowebpro;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

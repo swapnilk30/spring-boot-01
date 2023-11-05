@@ -1,4 +1,4 @@
-package com.algowebpro.springboot01;
+package com.algowebpro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
